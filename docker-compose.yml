@@ -58,3 +58,4 @@ volumes:
 networks:
   aethery_network:
     driver: bridge
+    
